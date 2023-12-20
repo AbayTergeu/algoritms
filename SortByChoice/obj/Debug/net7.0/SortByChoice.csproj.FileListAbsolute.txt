@@ -1,0 +1,17 @@
+D:\slotegrator\algoritms\Algoritms\SortByChoice\bin\Debug\net7.0\SortByChoice.exe
+D:\slotegrator\algoritms\Algoritms\SortByChoice\bin\Debug\net7.0\SortByChoice.deps.json
+D:\slotegrator\algoritms\Algoritms\SortByChoice\bin\Debug\net7.0\SortByChoice.runtimeconfig.json
+D:\slotegrator\algoritms\Algoritms\SortByChoice\bin\Debug\net7.0\SortByChoice.dll
+D:\slotegrator\algoritms\Algoritms\SortByChoice\bin\Debug\net7.0\SortByChoice.pdb
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\SortByChoice.GeneratedMSBuildEditorConfig.editorconfig
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\SortByChoice.AssemblyInfoInputs.cache
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\SortByChoice.AssemblyInfo.cs
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\SortByChoice.csproj.CoreCompileInputs.cache
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\SortByChoice.dll
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\refint\SortByChoice.dll
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\SortByChoice.pdb
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\SortByChoice.genruntimeconfig.cache
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\ref\SortByChoice.dll
+D:\slotegrator\algoritms\Algoritms\SortByChoice\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\SortByChoice.csproj.AssemblyReference.cache
+D:\slotegrator\algoritms\Algoritms\SortByChoice\obj\Debug\net7.0\SortByChoice.csproj.CopyComplete
