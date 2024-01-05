@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "6b8phDqAekE1MI3HOY+5UMw+sxtfbgsOvM83tlILi3ZpYR5ickwEUrwu3lcU1EM6aKhIj9ZTLKaAVXyiAlbSRg==",
+  "dgSpecHash": "fcOgGsQI3Rhze651CmQ7q0/a7ErLr9qlzNPErIBkQdO/P8wUJrAPR8KzQYcbNk0246TNpPd70HZNWKJtQqzWfA==",
   "success": true,
-  "projectFilePath": "D:\\slotegrator\\algoritms\\Algoritms\\SortByChoice\\SortByChoice.csproj",
+  "projectFilePath": "D:\\slotegrator\\projects\\algoritms\\SortByChoice\\SortByChoice.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ladmin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\abay.te\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\abay.te\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\abay.te\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\abay.te\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\abay.te\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\slotegrator\\algoritms\\Algoritms\\SortByChoice\\SortByChoice.csproj": {}
+    "D:\\slotegrator\\projects\\algoritms\\SortByChoice\\SortByChoice.csproj": {}
   },
   "projects": {
-    "D:\\slotegrator\\algoritms\\Algoritms\\SortByChoice\\SortByChoice.csproj": {
+    "D:\\slotegrator\\projects\\algoritms\\SortByChoice\\SortByChoice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\slotegrator\\algoritms\\Algoritms\\SortByChoice\\SortByChoice.csproj",
+        "projectUniqueName": "D:\\slotegrator\\projects\\algoritms\\SortByChoice\\SortByChoice.csproj",
         "projectName": "SortByChoice",
-        "projectPath": "D:\\slotegrator\\algoritms\\Algoritms\\SortByChoice\\SortByChoice.csproj",
-        "packagesPath": "C:\\Users\\ladmin\\.nuget\\packages\\",
-        "outputPath": "D:\\slotegrator\\algoritms\\Algoritms\\SortByChoice\\obj\\",
+        "projectPath": "D:\\slotegrator\\projects\\algoritms\\SortByChoice\\SortByChoice.csproj",
+        "packagesPath": "C:\\Users\\abay.te\\.nuget\\packages\\",
+        "outputPath": "D:\\slotegrator\\projects\\algoritms\\SortByChoice\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abay.te\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.airastana.com/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -56,12 +62,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

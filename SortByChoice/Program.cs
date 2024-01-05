@@ -1,8 +1,4 @@
-﻿using Newtonsoft.Json;
-using Tolar.BiService.Domain.Abstractions.Common.Risks.Contracts;
-using Tolar.BiService.Enumeration;
-
-namespace SortByChoice;
+﻿namespace SortByChoice;
 
 /// <summary>
 /// Сортировка выборкой, бегаем по всему списку и ставим на 0 индекс самое минимальное значение,
@@ -13,17 +9,7 @@ static class Program
 {
     static void Main()
     {
-
-        var a = new B();
-        var contacts = new RiskData(RiskLevel.Undefined);
-        contacts.Value = "12";
-        var json = JsonConvert.SerializeObject(contacts, new RiskDataConverter());
-        Console.WriteLine(json);
-        
-        var contactsObj = JsonConvert.DeserializeObject<RiskData>(json, new RiskDataConverter())!;
-        Console.WriteLine(contactsObj);
-
-        /*Console.WriteLine("Сортировка выбором");
+        Console.WriteLine("Сортировка выбором");
         Console.WriteLine("Введите массив для сортировки");
         var interArr = Console.ReadLine()?.Split(new[] { " ", ",", ";" }, StringSplitOptions.RemoveEmptyEntries);
         if (interArr != null)
@@ -36,7 +22,7 @@ static class Program
             Console.WriteLine("Упорядоченный массив: {0}", string.Join(", ", SortByChoice(arr)));
         }
 
-        Console.ReadLine();*/
+        Console.ReadLine();
     }
     
     /// <summary>
